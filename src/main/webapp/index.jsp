@@ -19,7 +19,7 @@ background-size:cover;
 <title>Home Page</title>
 <%@include file="all_component/allcss.jsp" %>
 </head>
-<body>8ujn 
+<body>
 	<%@include file="all_component/navbar.jsp" %>
 	
 	
